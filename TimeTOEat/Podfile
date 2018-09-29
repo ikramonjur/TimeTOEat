@@ -1,0 +1,9 @@
+platform :ios, '10.0'
+
+target 'TimeTOEat' do
+  use_frameworks!
+
+  # Pods for TimeTOEat
+pod 'CVCalendar', '~> 1.6.1'
+
+end
